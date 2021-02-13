@@ -1,2 +1,3 @@
-# impressora_bluetooth_web
-Contem arquivos de ajuda a utilização da Impressora 
+# Android Impressora Bluetooth
+
+Contains files for using the Printer
